@@ -1,4 +1,4 @@
-# TCG Deck Builder Project: README File Template
+# AuriBot- An open source TCG balance bot, made by AI, powered by the Gray Matter discord. 
 
 ## Welcome to the TCG Deck Builder Project!
 
