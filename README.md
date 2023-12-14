@@ -2,7 +2,7 @@
 
 ## Welcome to the TCG Deck Builder Project!
 
-This project aims to create a Discord-based trading card game (TCG) bot that can be used to beta test and balance game mechanics. As a collaborative effort, we encourage creativity and teamwork. Below you'll find the necessary steps to get started and contribute effectively.
+This project aims to create a Discord-based trading card game (TCG) bot that can be used to beta test and balance game mechanics. As a collaborative effort, we encourage creativity and teamwork. Below you'll find the necessary steps to get started and contribute effectively. Remember, before starting anything here, please reference the sign-up sheet here: https://docs.google.com/spreadsheets/d/19ygf8WNcKbuk6CzLK_ckKKBWaB3X5C3dqLPzsg_zMYw/edit#gid=1006194246
 
 ### Getting Started
 
