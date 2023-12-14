@@ -46,6 +46,7 @@ This project aims to create a Discord-based trading card game (TCG) bot that can
 - Once you're confident with your work, commit your changes.
 - **Important**: Do not include your bot token in any commits. Discord will deactivate exposed tokens for security reasons.
 - Push your changes to a new branch and create a pull request.
+- Alternatively you can send any updates directly to Elodine and they'll be pushed here that way.
 
 #### Daily Bot Reset
 - The bot on the main server will be reset daily to incorporate everyone's latest pushed progress.
@@ -58,5 +59,19 @@ This project aims to create a Discord-based trading card game (TCG) bot that can
 - Stay in sync with the team and participate in discussions.
 - Respect the project structure and coding conventions.
 
-### Conclusion
+### Feedback and Contact
+`For all feedback, suggestions, any guidance on changes that can be implemented, we encourage you to contact Elodine, or ping someone in the Gray Matter Discord! My DM's are always open.
+
+### Have fun! 
 Your contributions are vital to the success of this project. Let's work together to create an engaging and fun TCG bot. Happy coding!
+
+### Project Benefits:
+With many individuals seeking to participate in this project to get a look at collaborative development enviorments, we've taken the time to outline a number of benefits to participating in communal coding projects like this:
+Participant Benefits:
+- Engaging in the TCG Deck Builder Project offers participants a unique opportunity to gain practical experience in AI-driven development, collaborative coding, and game design.
+- Participants can enhance their coding skills by working on specific tasks within the project, gaining exposure to real-world application development scenarios.
+- Through collaboration with peers and leveraging AI tools, participants will develop a deeper understanding of AI integration in software projects and learn how to navigate challenges in a team setting.
+- Exposure to version control systems, issue tracking, and documentation practices will contribute to participants' proficiency in industry-standard development workflows.
+- Actively contributing to a project of this nature provides valuable insights into the integration of gaming mechanics, Discord bot development, and AI-driven automation, broadening participants' knowledge base.
+- Successful completion of assigned tasks and active participation will be acknowledged, providing participants with a tangible representation of their contributions to an open-source project.
+- The experience gained from this project can serve as a solid foundation for future endeavors in AI-driven applications, collaborative development projects, and game development.
