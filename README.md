@@ -37,6 +37,8 @@ This project aims to create a Discord-based trading card game (TCG) bot that can
 - Have your chosen LLM fill our that sketch function by function.
 - Test your features thoroughly in your test environment.
 - Human oversight when troubleshooting is fair game. The idea is to have the LLM build the bulk of your code, 70% or more.
+- Use discord.js v14, !commands have been established in the initial guidance and will be the most simple for both participants and the AI to manage.
+- Add additional comments to help give clarity to other participants.
 
 ### Contributing to the Project
 
