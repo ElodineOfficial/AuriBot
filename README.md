@@ -60,7 +60,7 @@ This project aims to create a Discord-based trading card game (TCG) bot that can
 - Respect the project structure and coding conventions.
 
 ### Feedback and Contact
-`For all feedback, suggestions, any guidance on changes that can be implemented, we encourage you to contact Elodine, or ping someone in the Gray Matter Discord! My DM's are always open.
+`For all feedback, suggestions, any guidance on changes that can be implemented, we encourage you to contact Elodine over discord for a quick address/resolution, or ping someone in the Gray Matter Discord! My DM's are always open.
 
 ### Have fun! 
 Your contributions are vital to the success of this project. Let's work together to create an engaging and fun TCG bot. Happy coding!
