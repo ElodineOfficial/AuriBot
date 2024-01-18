@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spells>
+  <spell>
+    <id>MysticShield</id>
+    <description>Creates a protective barrier around the caster.</description>
+  </spell>
+</spells>
