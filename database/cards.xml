@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <card>
+    <name>Gandalf the Grey</name>
+    <id>WIZ1001</id>
+    <health>120</health>
+    <defense>60</defense>
+    <abilities>3</abilities>
+    <abilities>4</abilities>
+    <itemSlot>A</itemSlot>
+  </card>
+  <card>
+    <name>Aragorn</name>
+    <id>RNG1002</id>
+    <health>110</health>
+    <defense>70</defense>
+    <abilities>1</abilities>
+    <abilities>2</abilities>
+    <itemSlot>B</itemSlot>
+  </card>
+  <card>
+    <name>Legolas</name>
+    <id>ELF1003</id>
+    <health>100</health>
+    <defense>50</defense>
+    <abilities>5</abilities>
+    <abilities>6</abilities>
+    <itemSlot>C</itemSlot>
+  </card>
+</cards>

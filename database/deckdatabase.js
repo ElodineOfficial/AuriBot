@@ -1,9 +1,12 @@
+//Deck XML
 const fs = require('fs');
 const xml2js = require('xml2js');
 
-let hand = [];
+let deck = [];
 
-function loadHandFromXml(filename) {
+// deckdatabase.js
+
+function loadDeckFromXml(filename) {
     let parser = new xml2js.Parser();
     fs.readFile(filename, (err, data) => {
         if (err) {
@@ -17,27 +20,29 @@ function loadHandFromXml(filename) {
                 return;
             }
 
-            if (result && result.hand && result.hand.cardId) {
+            if (result && result.deck && result.deck.cardId) {
                 // Assuming cardId is an array of card ID strings
-                hand.splice(0, hand.length, ...result.hand.cardId);
+                deck.splice(0, deck.length, ...result.deck.cardId);
             } else {
-                console.log('No valid card IDs found in the hand XML.');
+                console.log('No valid card IDs found in the deck XML.');
             }
         });
     });
 }
 
-function saveHandToXml(filename) {
+
+function saveDeckToXml(filename) {
     let builder = new xml2js.Builder();
-    let xml = builder.buildObject({hand: {cardId: hand.map(id => ({_: id}))}});
+    let xml = builder.buildObject({deck: {cardId: deck.map(id => ({_: id}))}});
 
     fs.writeFile(filename, xml, (err) => {
         if (err) {
             console.error("Error writing XML file:", err);
             return;
         }
-        console.log('Hand saved to XML file.');
+        console.log('Deck saved to XML file.');
     });
 }
 
-module.exports = { hand, loadHandFromXml, saveHandToXml };
+module.exports = { deck, loadDeckFromXml, saveDeckToXml };
+
